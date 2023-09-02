@@ -39,7 +39,7 @@ msgstr "主题设置"
 
 #: applications/luci-app-argon-config/htdocs/luci-static/resources/view/argon-config.js:45
 msgid "Argon theme configuration"
-msgstr "Argon 主题设置"
+msgstr "Argon主题设置"
 
 #: applications/luci-app-argon-config/htdocs/luci-static/resources/view/argon-config.js:175
 msgid "Background file list"
